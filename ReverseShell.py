@@ -68,7 +68,7 @@ def status():
     response = str(proc.communicate()[0])
     if 'Accept' in response:
         print (response.replace('\\r\\n', '\n').replace('b\'', '')[:-3])
-        print ('\n%s Payload Éxecuté. Entrée une commande:- \n\n' % good)
+        print ('\n%s Good, Entrée une commande:- \n\n' % good)
         shell()
     else:
         os.system('printf "\033[F"')
