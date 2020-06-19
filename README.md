@@ -7,6 +7,9 @@ Revershell V1:
 - Inject commands
 and more...
 
+Command:
+Python3 ReverseShell.py
+
 Credits: Zellix#1956
 It's BETA Version
 
