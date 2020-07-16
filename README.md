@@ -10,7 +10,7 @@ and more...
 Command:
 Python3 ReverseShell.py
 
+Repris d'un ancien github
+
 Credits: Zellix#1956
 It's BETA Version
-
-Zellix | 2019 / 2020 © Tous droits réservés
