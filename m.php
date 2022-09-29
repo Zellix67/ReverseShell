@@ -1,3 +1,1 @@
-<?php
-echo 'Current script owner: ' . get_current_user();
-?>
+alert('document.cookie')
